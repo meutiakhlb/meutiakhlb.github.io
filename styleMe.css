@@ -1,0 +1,47 @@
+body {
+    background-image: linear-gradient(palevioletred, paleturquoise);
+}
+
+.heading {
+    display:flex;
+    color: black;
+    font-size: 40px;
+    justify-content: center;
+    font-weight: bold;
+    align-items: center;
+    font-family: 'Pacifico', cursive;
+}
+
+.photo {
+    width: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:50%;
+    margin-bottom: 20px;
+}
+
+.title-hobby {
+    display:flex;
+    font-size: 28px;
+    color:black;
+    justify-content: center;
+    font-family: 'Overpass', sans-serif;
+    position: fixed;
+}
+
+}
+.hobby {
+    display:flex;
+    font-size: 20px;
+    color:black;
+    justify-content: center;
+    font-family: 'Noto Sans SC', sans-serif;
+}
+
+.job {
+    display: flex;
+    font-size: 28px;
+    justify-content: center;
+    font-family: 'Signika', sans-serif;
+}
